@@ -1,0 +1,5 @@
+*__pycache__*
+*.pth
+*.h5
+*.jpg
+*.egg-info/*

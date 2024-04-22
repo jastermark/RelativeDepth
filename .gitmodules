@@ -1,0 +1,4 @@
+[submodule "PoseLib"]
+	path = PoseLib
+	url = git@github.com:PoseLib/PoseLib.git
+	branch = reldepth_3dv24
